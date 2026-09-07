@@ -58,7 +58,7 @@ function AssistantMessage() {
     <MessagePrimitive.Root className="flex justify-start">
       <div
         className="
-          prose prose-sm max-w-[min(90%,44rem)] rounded-2xl bg-gray-100 px-4 py-2.5 text-sm text-gray-900
+          prose prose-sm max-w-[90%] rounded-2xl bg-gray-100 px-4 py-2.5 text-sm text-gray-900
           prose-headings:mt-3 prose-headings:mb-1.5 prose-headings:font-semibold
           prose-p:my-1.5 prose-ul:my-1.5 prose-ol:my-1.5 prose-li:my-0.5
           prose-hr:my-3 prose-strong:text-gray-900 prose-code:text-gray-900
